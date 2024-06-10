@@ -13,5 +13,3 @@ Meu nome é André Prado Rodolfo, tenho 26 anos. Moro em Osasco-SP.<br><br>Atual
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SrAndrePrado&icon=1&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
