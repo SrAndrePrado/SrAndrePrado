@@ -8,8 +8,7 @@ Meu nome é André Prado Rodolfo, tenho 26 anos. Moro em Osasco-SP.<br><br>Atual
 # 💻 Tech Stack:
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SrAndrePrado&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SrAndrePrado&theme=dark&hide_border=true)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrAndrePrado&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
